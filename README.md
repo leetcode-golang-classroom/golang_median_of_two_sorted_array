@@ -55,7 +55,7 @@ merged 的中間數就是
 
 假設 num1, num2 如下圖一樣
 
-![two_sorted_array.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9744c443-74ae-49c2-9586-ee756144e44d/two_sorted_array.png)
+![](https://i.imgur.com/dj2SOAq.png)
 
 可以看出對於兩個陣列 large, small 的中間數。
 
